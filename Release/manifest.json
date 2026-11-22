@@ -1,0 +1,11 @@
+{
+  "name": "Enigmas_Shelf_Life",
+  "version_number": "0.1.3",
+  "website_url": "https://github.com/relinkem/Enigmas-Shelf-Life",
+  "description": "Bulk storage bins and a woodpile rack that show how full they are, and display cabinets whose slots show what is in them. All in Hammer > Storage.",
+  "dependencies": [
+    "denikson-BepInExPack_Valheim-5.4.2351",
+    "ValheimModding-Jotunn-2.30.2",
+    "Balrond-balrond_constructions-1.5.3"
+  ]
+}
